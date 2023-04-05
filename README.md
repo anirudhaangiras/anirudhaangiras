@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anirudhaangiras - a Design Engineer
-- 👀 I’m interested in ... robotics, data analysis and machine learning
-- 🌱 I’m currently learning ... python and SQL
+- 👀 I’m interested in ... robotics, finite element analyses, data analyses and machine learning
+- 🌱 I’m currently learning ... Matlab, Python, Excel and SQL
 
 <!---
 anirudhaangiras/anirudhaangiras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
