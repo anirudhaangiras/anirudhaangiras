@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anirudhaangiras - a Design Engineer
-- 👀 I’m interested in ... robotics, finite element analyses, data analyses and machine learning
+- 👀 I’m interested in ... Finite Element Analyses, Computational Fluid Dynamics, Data Analyses and Machine Learning
 - 🌱 I’m currently learning ... Matlab, Python, Excel and SQL
 
 <!---
