@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @anirudhaangiras - a Design Engineer
-- 👀 I’m interested in ... Finite Element Analyses, Computational Fluid Dynamics, Data Analyses and Machine Learning
-- 🌱 I’m currently learning ... Matlab, Python, Excel and SQL
+# Hi there 👋
+Welcome to my GitHub profile!
 
-<!---
-anirudhaangiras/anirudhaangiras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I'm Anirudha Sharma, a passionate Design Engineer and Data Analyst from India. I love music, reading about history and fiction, travelling and learning new languages, and I'm always excited about learning new things.
+
+## 🔭 Current Projects
+Here are some of the projects I'm currently working on:
+
+1. [Power Plant Electrical Energy Output](https://github.com/anirudhaangiras/Power-Plant-Output)
+2. [Hotel Revenue Analysis and Booking Trends: Unveiling Insights with SQL and Power BI](https://github.com/anirudhaangiras/Hotel-Revenue-Analysis-And-Trends)
+3. [Breast Cancer Detection](https://github.com/anirudhaangiras/Breast-Cancer-Detection)
